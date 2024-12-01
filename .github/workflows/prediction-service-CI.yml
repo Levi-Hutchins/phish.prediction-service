@@ -1,7 +1,13 @@
 
 on:
   pull_request:
-    branches: [main, dev]
+    branches: 
+      - main
+      - dev
+  push:
+    branches:
+      - main
+      - dev 
   workflow_dispatch:
 permissions:
   contents: read
