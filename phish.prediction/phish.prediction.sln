@@ -2,6 +2,8 @@
 Microsoft Visual Studio Solution File, Format Version 12.00
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "phish.prediction.api", "phish.prediction.api\phish.prediction.api.csproj", "{F360769D-EF6A-480C-99EE-5138EFC7D196}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "phish.prediction.tests", "phish.prediction.tests\phish.prediction.tests.csproj", "{8D629378-DE38-4BF5-8E6D-05305ECD7362}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -12,5 +14,9 @@ Global
 		{F360769D-EF6A-480C-99EE-5138EFC7D196}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{F360769D-EF6A-480C-99EE-5138EFC7D196}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{F360769D-EF6A-480C-99EE-5138EFC7D196}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8D629378-DE38-4BF5-8E6D-05305ECD7362}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8D629378-DE38-4BF5-8E6D-05305ECD7362}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8D629378-DE38-4BF5-8E6D-05305ECD7362}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8D629378-DE38-4BF5-8E6D-05305ECD7362}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
